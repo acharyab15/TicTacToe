@@ -1,2 +1,4 @@
-# TicTacToe
-Simple TicTacToe app from the Intro To React tutorial
+Simple Tic Tac Toe app from the Intro to Reach tutorial from the official React website.
+
+===
+
